@@ -1,5 +1,10 @@
-numpy==2.3.4
-pickle-mixin==1.0.2
+# Core libraries
 streamlit==1.50.0
 streamlit-option-menu==0.4.0
+
+# Machine Learning and Data
+numpy==2.3.4
 scikit-learn==1.7.2
+
+# Model Serialization
+pickle-mixin==1.0.2
